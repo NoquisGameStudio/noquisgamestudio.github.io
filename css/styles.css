@@ -7416,6 +7416,7 @@ textarea.form-control-lg {
 
 #navbarResponsive > .ms-auto {
   margin-left: auto !important;
+  margin-right: 0 !important;
 }
 
 .p-0 {
