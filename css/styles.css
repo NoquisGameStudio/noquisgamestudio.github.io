@@ -7410,6 +7410,12 @@ textarea.form-control-lg {
 
 .ms-auto {
   margin-left: auto !important;
+  margin-right: auto !important;
+  text-align: center;
+}
+
+#navbarResponsive > .ms-auto {
+  margin-left: auto !important;
 }
 
 .p-0 {
