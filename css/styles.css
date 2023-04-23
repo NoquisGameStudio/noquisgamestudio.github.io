@@ -11027,7 +11027,7 @@ div > .toni {
   background-image: url("../assets/img/toni.png") ;
   background-position: center center ;
   background-repeat: no-repeat ;
-  background-size: cover ;
+  background-size: contain ;
 }
 div > .jaime {
   width: 100% ;
@@ -11045,7 +11045,7 @@ div > .ana {
   background-image: url("../assets/img/Anna.png") ;
   background-position: center center ;
   background-repeat: no-repeat ;
-  background-size: cover ;
+  background-size: contain ;
 }
 div > .paula {
   width: 100% ;
@@ -11054,7 +11054,7 @@ div > .paula {
   background-image: url("../assets/img/paula.png") ;
   background-position: center center ;
   background-repeat: no-repeat ;
-  background-size: cover ;
+  background-size: contain ;
 }
 div > .aritz {
   width: 100% ;
@@ -11063,7 +11063,7 @@ div > .aritz {
   background-image: url("../assets/img/Aritz.png") ;
   background-position: center center ;
   background-repeat: no-repeat ;
-  background-size: cover ;
+  background-size: contain ;
 }
 
 .masthead h1, .masthead .h1 {
