@@ -11021,13 +11021,13 @@ footer.footer .social-link:hover {
 }
 
 div > .toni {
-  width: 100%;
-  height: 100%;
-  display: block;
-  background-image: url("../assets/img/toni.png");
-  background-position: center center;
-  background-repeat: no-repeat;
-  background-size: cover;
+  width: 100% !important;
+  height: 100% !important;
+  display: block !important;
+  background-image: url("../assets/img/toni.png") !important;
+  background-position: center center !important;
+  background-repeat: no-repeat !important;
+  background-size: cover !important;
 }
 
 .masthead h1, .masthead .h1 {
