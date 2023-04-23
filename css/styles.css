@@ -11020,7 +11020,7 @@ footer.footer .social-link:hover {
   background-size: cover;
 }
 
-.toni {
+div > .toni {
   width: 100%;
   height: 100%;
   display: block;
