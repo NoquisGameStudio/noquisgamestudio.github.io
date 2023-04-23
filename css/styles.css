@@ -11027,7 +11027,7 @@ div > .toni {
   background-image: url("../assets/img/toni.png") !important;
   background-position: center center !important;
   background-repeat: no-repeat !important;
-  background-size: contain !important;
+  background-size: cover !important;
 }
 div > .jaime {
   width: 100% !important;
@@ -11045,7 +11045,7 @@ div > .ana {
   background-image: url("../assets/img/Anna.png") !important;
   background-position: center center !important;
   background-repeat: no-repeat !important;
-  background-size: contain !important;
+  background-size: cover !important;
 }
 div > .paula {
   width: 100% !important;
@@ -11054,7 +11054,7 @@ div > .paula {
   background-image: url("../assets/img/paula.png") !important;
   background-position: center center !important;
   background-repeat: no-repeat !important;
-  background-size: contain !important;
+  background-size: cover !important;
 }
 div > .aritz {
   width: 100% !important;
