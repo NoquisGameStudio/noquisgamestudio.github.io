@@ -11017,7 +11017,7 @@ footer.footer .social-link:hover {
   background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../assets/img/todos.png");
   background-position: center center;
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: contain;
 }
 
 div > .toni {
@@ -11025,6 +11025,42 @@ div > .toni {
   height: 100% !important;
   display: block !important;
   background-image: url("../assets/img/toni.png") !important;
+  background-position: center center !important;
+  background-repeat: no-repeat !important;
+  background-size: contain !important;
+}
+div > .jaime {
+  width: 100% !important;
+  height: 100% !important;
+  display: block !important;
+  background-image: url("../assets/img/Jaime.png") !important;
+  background-position: center center !important;
+  background-repeat: no-repeat !important;
+  background-size: contain !important;
+}
+div > .ana {
+  width: 100% !important;
+  height: 100% !important;
+  display: block !important;
+  background-image: url("../assets/img/Anna.png") !important;
+  background-position: center center !important;
+  background-repeat: no-repeat !important;
+  background-size: contain !important;
+}
+div > .paula {
+  width: 100% !important;
+  height: 100% !important;
+  display: block !important;
+  background-image: url("../assets/img/paula.png") !important;
+  background-position: center center !important;
+  background-repeat: no-repeat !important;
+  background-size: contain !important;
+}
+div > .aritz {
+  width: 100% !important;
+  height: 100% !important;
+  display: block !important;
+  background-image: url("../assets/img/Aritz.png") !important;
   background-position: center center !important;
   background-repeat: no-repeat !important;
   background-size: cover !important;
